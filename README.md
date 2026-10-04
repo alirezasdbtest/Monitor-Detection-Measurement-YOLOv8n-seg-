@@ -25,7 +25,6 @@ monitor_ft/
 ├── models/
 │   ├── best.pt           # base single-class (Monitor) segmentation model
 │   └── best_cctv.pt      # optional: model adapted to the camera (used first if present)
-└── Saidi1.ipynb          # dataset exploration, geometry analysis, base training (Colab)
 ```
 
 ## Requirements
